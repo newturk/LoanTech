@@ -6,3 +6,4 @@ Students from private schools and those from urban areas can access high-quality
 
 JINA's Neural search feature is helping us to have better search algorithms and understands user's demand or queries, with cross modular search we are able to present the students with the loanable device as per their school use or hobby use, they can either upload the image of any device and get results whether it can fit their school or hobby project purpose or not . Also they can search for loanable devices by simple queries like their use-case, memory and application supports, etc.
 
+![alt text](https://github.com/newturk/LoanTech/blob/master/loantech.jpg?raw=true)
