@@ -1,0 +1,61 @@
+image,caption
+1.jpg,Good for multitasking as well as gaming .
+2.jpg,Drawing circuit schematics with electronics design tools like Eagle .
+3.jpg,Game designing usign Unity and Unreal .
+4.jpg,3D modeling using Autodesk Fusion Blender Daz studio .
+5.jpg,Major Artificial Intelligence Frameworks like Tensorflow Pytorch .
+6.jpg,Android App development .
+7.jpg,Blender animation and digital signal processing .
+8.jpg,Augmented Reality and Virtual Reality development with game engine like Unity and Unreal.
+9.jpg,Music creation and video editing using Adobe Illustrator .
+10.jpg,Cloud Application development usign python and artificial intelligence frameworks .
+11.jpg,Run any operating system linux or windows.
+12.jpg,High time multitasking browsing gaming watching media together.
+13.jpg,Movie making and editing with Adobe and Vegas software .
+14.jpg,Computer generated audio and synths for live music creation .
+15.jpg,Live gaming and game streaming on major platforms like youtube and twitch .
+16.jpg,Building robots applications and connecting many hardware pheripherals .
+17.jpg,High graphics .
+18.jpg,More ram memory and cores for movie making visual designing .
+19.jpg,Tensorflow preinstalled and tested .
+20.jpg,Adobe software installed and tested fully .
+21.jpg,Taking notes in school or researching papers .
+22.jpg,Playing games or watching movies .
+23.jpg,Sending and receiving e-mails .
+24.jpg,YouTube, , infographics, and other educational tools.
+25.jpg,Google Classroom and Wikipedia working well .
+26.jpg,Online meeting via Zoom and Google Meet capable .
+27.jpg,Microsoft Word to write their assignments .
+28.jpg,Microsoft Excel for their mathematical calculation .
+29.jpg,Microsoft Powerpoint for presentations .
+30.jpg,Share notes and work with groups on projects. .
+31.jpg,Use the internet to speak to and communicate with family and friends .
+32.jpg,Online libraries and other websites to download whole books online .
+33.jpg,Online news sites cover not just a state or country but the whole world .
+34.jpg,Learn to type and manage schedules, .
+35.jpg,Learn to prepare budget by using online planners .
+36.jpg,From pre dated english literature to Hindi or regional plays .
+37.jpg,See chemistry experiments being performed and biodiversity flourishing in another part of the world .
+38.jpg,Group chats and live video chats .
+39.jpg,Research about any article research research about any article .
+40.jpg,Research about any informative thing or documentaries and even each and everything in this world .
+41.jpg,Handle your drawings design work and digital photographs  .
+42.jpg,PowerPoint presentations Excel spreadsheets and high-end database applications .
+43.jpg,Adobe photoshop and image editing .
+44.jpg,Inkscape image editing and manipulation .
+45.jpg,Microsoft office applications like word powerpoint excel .
+46.jpg,Java Ecllipse IDE preconfigured .
+47.jpg,Python IDLE configured .
+48.jpg,Run any programming languages like JavaScript python ruby .
+49.jpg,Web development and designing tools .
+50.jpg,Net banking and finance management tools .
+51.jpg,Smoth internet surfing experience and trusted antivirus  .
+52.jpg,Movie watching and educational program streaming .
+53.jpg,Graphical tasks like UI UX desinging and workflow .
+54.jpg,All programming IDE and compiler support .
+55.jpg,All operating system from linux to windows any version can run .
+56.jpg,Tiny circuit programming using Java or C languages .
+57.jpg,Mobile app development using j2me or java mobile edition .
+58.jpg,Office use and home use suited .
+59.jpg,Mathematical calculation and the visualization of figures through graphs .
+60.jpg,Mathematics related tasks and research .
